@@ -1,0 +1,46 @@
+*{
+    background-color: lightgreen;
+    text-align-last: center;
+    font: bold;
+}
+/* .about {
+
+    height: 100px;
+    width: 100px;
+} */
+img {
+    max-width: 25%;
+        max-height: 25%;
+        
+    
+    
+   }
+.profileInfo{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+
+}
+.websiteBox{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif; 
+    font-weight: bold;
+}
+.profilesBox{
+    text-align: center;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif; 
+    
+}
+a{
+    font-weight: bold;
+    color: purple;
+    text-decoration: none;
+}
+h1,h2{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 35px;
+}
+a:hover{
+    background-color: hotpink;
+}
